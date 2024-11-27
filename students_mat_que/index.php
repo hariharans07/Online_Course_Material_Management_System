@@ -48,7 +48,7 @@ echo "<script>alert('User Name Password Wrong.....')</script>";
 <body>
     <nav class="navbar">
         <div class="nav-content">
-            <a href="#" class="logo">MATERIALS</a>
+            <h1>M.KUMARASAMY COLLEGE OF ENGINEERING</h1>
             <button class="menu-btn">
               
             </button>
